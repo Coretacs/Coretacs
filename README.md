@@ -1,7 +1,7 @@
 [![An image of @coretacs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coretacs)](https://holopin.io/@coretacs)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&duration=3000&pause=500&color=33FF33&width=435&lines=Hi%F0%9F%91%8B...+;I'm+Etienne...;and+this+is+my+Github." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&duration=3000&pause=500&color=33FF33&width=435&lines=Hi%F0%9F%91%8B...+;...+my+name+is+Etienne...;...and+this+is+my+Github." alt="Typing SVG" /></a>
 </div>
 
 
