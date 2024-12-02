@@ -1,5 +1,3 @@
-[![An image of @coretacs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coretacs)](https://holopin.io/@coretacs)
-
 <!--
 **Coretacs/Coretacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
